@@ -7,3 +7,6 @@ This project requires Svar and PICMake:
 
 https://github.com/zdzhaoyong/Svar
 https://github.com/zdzhaoyong/PICMake
+
+
+**Warning**: The io monitor needs root permission.
